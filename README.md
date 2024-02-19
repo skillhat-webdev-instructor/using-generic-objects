@@ -6,7 +6,7 @@ This repository demonstrates using JavaScript Objects,their history and relation
 
 ## How to Use
 
-Simple Clone this repository and open up the using-generic-objects folder in visual code. From there, open up both the index.html and main.js to explore.
+Simply `git clone` this repository to a local working folder and open up the using-generic-objects folder in visual code. From there, open up both the index.html and main.js to explore.
 
 ## About Arrays
 
