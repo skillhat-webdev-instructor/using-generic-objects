@@ -4,6 +4,10 @@ Edward Apostol, for SkillHat, February 2024
 
 This repository demonstrates using JavaScript Objects,their history and relationship to arrays, and some example uses of generic JavaScript Object.
 
+## How to Use
+
+Simple Clone this repository and open up the using-generic-objects folder in visual code. From there, open up both the index.html and main.js to explore.
+
 ## About Arrays
 
 The origin of objects is that they evolved from arrays. In the early days of JavaScript, arrays were used to store collections of data.
